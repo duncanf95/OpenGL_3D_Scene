@@ -26,7 +26,7 @@ I added robots and lamp posts to thte city scene I had created. I then added 24 
 
 For animation, as well as having the doors of the police telephone box open. I had the whole object slowly disapear by reducing the number of points for OpenGl to draw.
 
-![](screenshots/tardis-lawn.png)
+![](screenshots/tardis-lawn.PNG)
 
 
 ![](screenshots/tardis-fly.png)
